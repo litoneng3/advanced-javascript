@@ -4,6 +4,7 @@
 //'' empty string
 //undefined
 //null
+//NaN
 
 //Truthy:
 //'0'
